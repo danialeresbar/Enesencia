@@ -1,0 +1,1 @@
+web: gunicorn dani_store.wsgi --log-file -

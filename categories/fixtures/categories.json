@@ -1,0 +1,73 @@
+[
+{
+    "model": "categories.category",
+    "pk": 1,
+    "fields": {
+        "name": "Perfume",
+        "description": "Sed vel venenatis risus, quis interdum ante. Vivamus convallis mattis dolor, vitae faucibus turpis mattis ut. Vestibulum nec placerat dui. Vestibulum sagittis nunc a porttitor luctus. Aliquam non fringilla lacus.",
+        "slug": "perfume",
+        "created": "2020-07-13T00:02:19.124Z",
+        "updated": "2020-07-13T00:02:19.124Z",
+        "products": []
+    }
+},
+{
+    "model": "categories.category",
+    "pk": 2,
+    "fields": {
+        "name": "Kit",
+        "description": "Integer scelerisque orci enim, vitae malesuada quam luctus id. Sed placerat risus a eros bibendum elementum. Nam eget dui sodales, feugiat nibh vel, placerat ante. Etiam sit amet felis quis augue egestas mollis quis tincidunt est. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "slug": "kit",
+        "created": "2020-07-13T00:02:38.095Z",
+        "updated": "2020-07-13T00:10:35.939Z",
+        "products": [
+            9
+        ]
+    }
+},
+{
+    "model": "categories.category",
+    "pk": 3,
+    "fields": {
+        "name": "Esencia",
+        "description": "Donec ultrices sit amet lectus id dignissim. Quisque imperdiet sollicitudin elit, vel placerat nunc malesuada nec. Aliquam consequat libero augue, vitae efficitur nulla interdum vel.",
+        "slug": "esencia",
+        "created": "2020-07-13T00:02:56.477Z",
+        "updated": "2020-07-13T00:02:56.477Z",
+        "products": []
+    }
+},
+{
+    "model": "categories.category",
+    "pk": 4,
+    "fields": {
+        "name": "Hombres",
+        "description": "Sed ullamcorper egestas nisl, eget pulvinar mauris finibus et. Etiam id mi faucibus, pretium metus at, pellentesque elit. Praesent sapien elit, pharetra vitae tincidunt sed, consequat bibendum lacus. Phasellus in justo congue, auctor lectus quis, condimentum ligula.",
+        "slug": "hombres",
+        "created": "2020-07-13T00:03:17.266Z",
+        "updated": "2020-07-13T00:10:21.406Z",
+        "products": [
+            5,
+            10
+        ]
+    }
+},
+{
+    "model": "categories.category",
+    "pk": 5,
+    "fields": {
+        "name": "Mujeres",
+        "description": "Sed tincidunt ex in elit suscipit, ac egestas erat ultricies. Nam quis sollicitudin nulla. Donec ullamcorper eros vel mi posuere, eget euismod dui dapibus.",
+        "slug": "mujeres",
+        "created": "2020-07-13T00:03:30.862Z",
+        "updated": "2020-07-13T00:42:26.670Z",
+        "products": [
+            6,
+            7,
+            8,
+            11,
+            12
+        ]
+    }
+}
+]

@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block title %}Inicio{% endblock %}
+
+{% block content %}
+    <div class="col">
+        <h1 class="text-center">{{ message }}</h1>
+        {% include 'products/snippets/search.html' %}
+        {% include 'products/snippets/list.html' %}
+    </div>
+{% endblock %}

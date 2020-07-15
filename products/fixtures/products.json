@@ -1,0 +1,106 @@
+[
+{
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+        "name": "ALLURE HOME SPORT CHANEL",
+        "description": "Integer lacinia urna id imperdiet mattis. Vivamus tincidunt consectetur nulla, a auctor lorem malesuada sed. Vestibulum quam nunc, sagittis placerat dapibus non, scelerisque sed augue. Donec a orci suscipit, accumsan risus quis, commodo turpis. Nullam commodo nisi quis urna pellentesque tincidunt.",
+        "product_image": "products/allure-home-sport-chanel.jpg",
+        "price": "40000.00",
+        "slug": "allure-home-sport-chanel",
+        "created": "2020-07-12T07:31:41.036Z",
+        "updated": "2020-07-12T07:31:41.036Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+        "name": "BE DELICIOUS DKNY",
+        "description": "Sed et eleifend augue, vel aliquet ex. Aliquam lacinia nisl sit amet eros convallis, vel suscipit turpis facilisis. Aenean vestibulum cursus leo, et ullamcorper nulla luctus eu.Aenean sed lorem mi. Morbi gravida augue non malesuada efficitur. Phasellus imperdiet placerat lorem non ultrices. In non velit et justo pharetra porttitor vitae ut massa. Mauris vitae enim eu ligula aliquet commodo. In hac habitasse platea dictumst",
+        "product_image": "products/be-deliciousdkny.jpg",
+        "price": "15000.00",
+        "slug": "be-delicious-dkny",
+        "created": "2020-07-12T07:32:50.404Z",
+        "updated": "2020-07-12T07:36:46.113Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+        "name": "BOMBSHELL VS",
+        "description": "Morbi tincidunt eu urna et mollis. Proin rutrum fringilla erat ultricies rutrum. Cras rhoncus, eros eu laoreet elementum, urna risus cursus sapien, sed hendrerit dolor turpis quis lorem. Sed a felis sollicitudin, pulvinar lorem vel, posuere lectus. Duis dapibus vehicula augue, id vehicula purus commodo a.",
+        "product_image": "products/bobshell.jpg",
+        "price": "10000.00",
+        "slug": "bombshell-vs",
+        "created": "2020-07-12T07:33:32.698Z",
+        "updated": "2020-07-12T07:37:04.021Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+        "name": "FANNY MOSCHINO",
+        "description": "Etiam faucibus sodales urna. Morbi egestas ullamcorper laoreet. Curabitur nec faucibus nisl. Quisque dictum varius odio sed tristique. Suspendisse sem nunc, interdum vitae egestas at, volutpat eget sem. Curabitur lacinia massa eget felis lobortis, vitae cursus sem varius.",
+        "product_image": "products/fanny-moschino-women.jpg",
+        "price": "15000.00",
+        "slug": "fanny-moschino",
+        "created": "2020-07-12T07:34:21.529Z",
+        "updated": "2020-07-12T07:34:21.529Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+        "name": "KIT ZAFIRO PASSPORT PARIS",
+        "description": "Ut volutpat egestas aliquet. Nulla id ultricies ligula. Aenean aliquet condimentum odio, eu tincidunt arcu. Phasellus eget rhoncus erat, sed porta lectus. Ut mattis nisl arcu, eu interdum mi elementum eu. Praesent nunc est, ullamcorper vel maximus in, suscipit eget arcu.",
+        "product_image": "products/kit-zafiro.jpg",
+        "price": "30000.00",
+        "slug": "kit-zafiro-passport-paris",
+        "created": "2020-07-12T07:35:29.992Z",
+        "updated": "2020-07-12T07:35:29.992Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+        "name": "LACOSTE RED",
+        "description": "Pellentesque egestas ipsum in mauris accumsan, ac efficitur augue laoreet. Sed tempus vehicula congue. Phasellus ac lorem eu neque lobortis accumsan ut sit amet nibh. Sed auctor in risus eu ultricies.",
+        "product_image": "products/lacoste-red.jpg",
+        "price": "15000.00",
+        "slug": "lacoste-red",
+        "created": "2020-07-12T07:36:09.192Z",
+        "updated": "2020-07-12T07:36:09.192Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 11,
+    "fields": {
+        "name": "VANILLA LACE PERFUM",
+        "description": "Suspendisse accumsan rhoncus nulla, id pellentesque ante aliquam in. Fusce egestas ut felis eget malesuada. Aliquam erat volutpat. Pellentesque enim orci, bibendum id consectetur ut, varius in justo. Donec ultricies efficitur erat, nec consectetur mauris. Phasellus facilisis pellentesque ante, aliquet mattis dui ultricies vitae. Sed lacinia tristique dolor.",
+        "product_image": "products/vanilla.jpg",
+        "price": "35000.00",
+        "slug": "vanilla-lace-perfum",
+        "created": "2020-07-13T00:40:41.009Z",
+        "updated": "2020-07-13T00:40:41.009Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 12,
+    "fields": {
+        "name": "THE ONE",
+        "description": "Etiam sit amet felis quis augue egestas mollis quis tincidunt est. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ultrices sit amet lectus id dignissim. Quisque imperdiet sollicitudin elit, vel placerat nunc malesuada nec. Aliquam consequat libero augue, vitae efficitur nulla interdum vel.",
+        "product_image": "products/the-one-women.jpg",
+        "price": "30000.00",
+        "slug": "the-one",
+        "created": "2020-07-13T00:41:38.189Z",
+        "updated": "2020-07-13T00:41:38.189Z"
+    }
+}
+]
